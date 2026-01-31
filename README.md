@@ -1,1 +1,1 @@
-![Uploading NYC-project.png…]()
+![Project Overview](assets/NYC-project.png)
